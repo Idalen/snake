@@ -55,7 +55,7 @@ screen = pygame.display.set_mode((600,600)) # define o tamanho da imagem
 pygame.display.set_caption('fog snake')
 pygame.mixer.init()
 
-pygame.mixer.music.load("intro.wav")
+pygame.mixer.music.load("music/intro.wav")
 pygame.mixer.music.play()
 
 
@@ -99,7 +99,7 @@ while heart_number:
                     pygame.mixer.music.set_volume(sound)
                 
         if not pygame.mixer.music.get_busy():
-            pygame.mixer.music.load("theme_song.wav")
+            pygame.mixer.music.load("music/theme_song.wav")
             pygame.mixer.music.play(-1)
         
         if not paused:
