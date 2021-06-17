@@ -41,5 +41,5 @@ Para atingir meu objetivo, utilizei de algumas técnicas:<br>
 <ul>
 	<li>Usei 261 bpm, o que deixou a música agitada e intensa, como foi do meu interesse;</li>
 	<li>A linha de baixo adianta o primeiro beat, o que traz uma quebra de expectativa muito intensa e um desconforto que condiz com minha proposta;</li>
-	<li>A música apela muito para o Dó Frígio, que traz estranheza e inquietude ao ouvinte, pela presença contante da tônica sustenida, o C#.</li>
+	<li>A música apela muito para o Dó Frígio, que traz estranheza e inquietude ao ouvinte, pela presença constante da tônica sustenida, o C#.</li>
 </ul>
