@@ -33,3 +33,13 @@ Os comandos são: <br>
 	<td>Finaliza o jogo</td>
 	</tr>
 </table>
+
+## Sobre a trilha sonora
+
+Busquei junto à composição que acompanha o jogo trazer um sentimento de frenesí e inquietação, visto a alta velocidade em que a cobra corre no decorrer do jogo, deixando o jogador beirando a alucinação para acompanhar os rápidos movimentos do game sem poder desvir a atenção em um frame sequer. <br>
+Para atingir meu objetivo, utilizei de algumas técnicas:<br>
+<ul>
+	<li>Usei 261 bpm, o que deixou a música agitada e intensa, como foi do meu interesse;</li>
+	<li>A linha de baixo adianta o primeiro beat, o que traz uma quebra de expectativa muito intensa e um desconforto que condiz com minha proposta;</li>
+	<li>A música apela muito para o Dó Frígio, que traz estranheza e inquietude ao ouvinte, pela presença contante da tônica sustenida, o C#.</li>
+</ul>
